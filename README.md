@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @priyeahd
-- 👀 I’m interested in Coding and learning new things 
-- 🌱 I’m currently learning developing various web devlopement projects 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Analyzing data
+- 🌱 I’m currently working on a project for analyzing data.
 - 📫 You can reach me via...priyadeshm155@gmail.com
 
 <!---
